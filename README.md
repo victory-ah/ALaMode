@@ -5,9 +5,9 @@ It is similar to having a tailor in your pocket.
 
 ## Index
 
-1. [User Stories]
+1. [User Stories] (https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/userstories.jpg) <br>
 
-## [User Stories] (https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/userstories.jpg) <br>
+## [User Stories] 
 
 
 
