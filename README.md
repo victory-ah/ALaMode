@@ -5,10 +5,10 @@ It is similar to having a tailor in your pocket.
 
 ## Index
 
-1. [User Stories] <br>
+1. [User Stories](@User-Stories) <br>
 2. [Scope] <br>
 
-## [User Stories] 
+## User Stories 
 ![User Stories](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/userstories.jpg)
 
 ## [Scope]
