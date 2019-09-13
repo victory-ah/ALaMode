@@ -13,6 +13,7 @@ It is similar to having a tailor in your pocket.
 6. [UML Use Case Diagram](#UML-Use-Case-Diagram)
 7. [Database](#Database)
 8. [Wireframe](#Wireframe)
+9. [Website Prototype](#Website-Prototype)
 
 ## User Stories 
 ![User Stories](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/userstories.jpg)
@@ -39,8 +40,12 @@ Top Level User Requirements:Tailoring, Education, Account Management, Inspiratio
 
 ## Wireframe
 ![Wireframe](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/%C3%80%20la%20mode%20-%20Wireframe%20(2).pdf)
+This will bring you to the layout of my Wireframe.
 
-
+## Website Prototype
+![Website Prototype](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/homepg.jpg)
+![Website Prototype](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/aboutpg.jpg)
+![Website Prototype](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/servicespg.jpg)
 
 
 
