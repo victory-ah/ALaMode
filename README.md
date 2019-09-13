@@ -9,6 +9,8 @@ It is similar to having a tailor in your pocket.
 2. [Scope](#Scope) <br>
 3. [Requirements](#Requirements)<br>
 4. [ERD](#ERD)<br>
+5. [RTM and Test Planning](#)
+6. [UML Use Case Diagram](#UML-Use-Case-Diagram)
 
 ## User Stories 
 ![User Stories](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/userstories.jpg)
@@ -25,7 +27,9 @@ Top Level User Requirements:Tailoring, Education, Account Management, Inspiratio
 
 ## ERD
 ![ERD](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/erd-pic.jpg)
-Rough Draft of ERD.
+
+## UML Use Case Diagram
+![UML Use Case Diagram](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/uml.jpg)
 
 
 
