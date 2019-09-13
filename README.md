@@ -14,6 +14,7 @@ It is similar to having a tailor in your pocket.
 7. [Database](#Database)
 8. [Wireframe](#Wireframe)
 9. [Website Prototype](#Website-Prototype)
+10. [Video Presentation](#Video-Presentation)
 
 ## User Stories 
 ![User Stories](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/userstories.jpg)
@@ -46,6 +47,10 @@ This will bring you to the layout of my Wireframe.
 ![Website Prototype](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/homepg.jpg)
 ![Website Prototype](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/aboutpg.jpg)
 ![Website Prototype](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/servicespg.jpg)
+
+## Video Presentation
+https://www.youtube.com/watch?v=CDtuNyrXdr0
+This is me presenting in front of my class the above material.
 
 
 
