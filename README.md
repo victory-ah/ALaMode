@@ -7,6 +7,7 @@ It is similar to having a tailor in your pocket.
 
 1. [User Stories](@User-Stories) <br>
 2. [Scope](@Scope) <br>
+3. [Requirements](@Requirements)<br>
 
 ## User Stories 
 ![User Stories](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/userstories.jpg)
@@ -17,6 +18,9 @@ It is similar to having a tailor in your pocket.
 Domain Used: Fashion
 
 Top Level User Requirements:Tailoring, Education, Account Management, Inspiration
+
+## Requirements
+![Requirements](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/HiList.jpg)
 
 
 
