@@ -8,6 +8,7 @@ It is similar to having a tailor in your pocket.
 1. [User Stories](#User-Stories) <br>
 2. [Scope](#Scope) <br>
 3. [Requirements](#Requirements)<br>
+4. [ERD](#ERD)<br>
 
 ## User Stories 
 ![User Stories](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/userstories.jpg)
@@ -21,6 +22,10 @@ Top Level User Requirements:Tailoring, Education, Account Management, Inspiratio
 
 ## Requirements
 ![Requirements](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/HiList.jpg)
+
+## ERD
+![ERD](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/erd-pic.jpg)
+Rough Draft of ERD.
 
 
 
