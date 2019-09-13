@@ -5,13 +5,14 @@ It is similar to having a tailor in your pocket.
 
 ## Index
 
-1. [User Stories](#User-Stories) <br>
-2. [Scope](#Scope) <br>
-3. [Requirements](#Requirements)<br>
-4. [ERD](#ERD)<br>
+1. [User Stories](#User-Stories) 
+2. [Scope](#Scope) 
+3. [Requirements](#Requirements)
+4. [ERD](#ERD)
 5. [RTM and Test Planning](#)
 6. [UML Use Case Diagram](#UML-Use-Case-Diagram)
 7. [Database](#Database)
+8. [Wireframe](#Wireframe)
 
 ## User Stories 
 ![User Stories](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/userstories.jpg)
@@ -36,6 +37,8 @@ Top Level User Requirements:Tailoring, Education, Account Management, Inspiratio
 ![Database](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/database1.jpg)
 ![Database](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/database2.jpg)
 
+## Wireframe
+![Wireframe](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/%C3%80%20la%20mode%20-%20Wireframe%20(2).pdf)
 
 
 
