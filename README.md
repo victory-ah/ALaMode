@@ -15,6 +15,7 @@ It is similar to having a tailor in your pocket.
 8. [Wireframe](#Wireframe)
 9. [Website Prototype](#Website-Prototype)
 10. [Video Presentation](#Video-Presentation)
+11. [Test Readiness Review](#Test-Readiness-Review)
 
 ## User Stories 
 ![User Stories](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/userstories.jpg)
@@ -52,5 +53,6 @@ This will bring you to the layout of my Wireframe.
 https://www.youtube.com/watch?v=CDtuNyrXdr0
 This is me presenting in front of my class the above material.
 
-
+## Test Readiness Review
+![Test Readiness Review](https://github.com/victory-ah/ALaMode/blob/master/RoughALaMode/trr.jpg)
 
